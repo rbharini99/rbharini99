@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rbharini99
+- 👀 I’m interested in ML models, LLMs, GenAI and data analytics.
+- 🌱 I’m currently learning data analytics and data visualisation.
+- 💞️ I’m looking to collaborate on ML 
+- 📫 How to reach me : rbharini99 (at) gmail (dot) com
